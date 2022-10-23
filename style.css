@@ -1,0 +1,16 @@
+body {
+    font-family: "Raleway", sans-serif;
+    color: #1A306C;
+    background-color: #E8C019
+}
+
+.bighead {
+ font-size: 100px;
+ width: fit-content;
+ font-weight:800;
+}
+
+footer {
+background-color:#1A306C;
+color: white;
+}
